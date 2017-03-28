@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{A9DCAC72-BC77-4C33-BE70-BBFD31D7C798}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug-Windows|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\OOP2016\backup 3 11 16\9.1 Rover complete and UML stuff\Project\src\Rover.cs" line="273" column="67" />
+      <Breakpoint file="D:\OOP2016\backup 3 11 16\9.1 Rover complete and UML stuff\Project\src\Rover.cs" line="264" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="src\GameControl.cs">
+    <Files>
+      <File FileName="src\GameMain.cs" Line="25" Column="6" />
+      <File FileName="src\TextBox.cs" Line="35" Column="3" />
+      <File FileName="src\Speciman.cs" Line="77" Column="3" />
+      <File FileName="src\Rover.cs" Line="2" Column="19" />
+      <File FileName="src\Battery.cs" Line="4" Column="2" />
+      <File FileName="src\Devices\Device.cs" Line="5" Column="2" />
+      <File FileName="src\Devices\Drill.cs" Line="60" Column="3" />
+      <File FileName="src\Devices\SolarPanel.cs" Line="5" Column="2" />
+      <File FileName="src\Devices\Radar.cs" Line="6" Column="2" />
+      <File FileName="src\Devices\Motor.cs" Line="61" Column="3" />
+      <File FileName="src\Direction.cs" Line="4" Column="2" />
+      <File FileName="src\RadarType.cs" Line="7" Column="3" />
+      <File FileName="RoverUnitTests\Test.cs" Line="7" Column="2" />
+      <File FileName="src\GameControl.cs" Line="74" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MyGameWin PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
